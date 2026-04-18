@@ -52,7 +52,7 @@ All projects in this repository are built using **Jupyter Notebooks / Google Col
    ```bash
    git clone [https://github.com/your-username/machine-learning-foundations.git](https://github.com/your-username/machine-learning-foundations.git)
    
-2.Open the .ipynb files in Google Colab or your local Jupyter environment.
+ 2.Open the .ipynb files in Google Colab or your local Jupyter environment.
 
 3. Ensure you have the required libraries installed:
 
